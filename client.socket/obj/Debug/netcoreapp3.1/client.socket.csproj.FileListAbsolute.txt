@@ -1,0 +1,9 @@
+C:\Users\resul\source\repos\websocket-api\client.socket\bin\Debug\netcoreapp3.1\client.socket.deps.json
+C:\Users\resul\source\repos\websocket-api\client.socket\bin\Debug\netcoreapp3.1\client.socket.dll
+C:\Users\resul\source\repos\websocket-api\client.socket\obj\Debug\netcoreapp3.1\client.socket.csprojAssemblyReference.cache
+C:\Users\resul\source\repos\websocket-api\client.socket\obj\Debug\netcoreapp3.1\client.socket.AssemblyInfoInputs.cache
+C:\Users\resul\source\repos\websocket-api\client.socket\obj\Debug\netcoreapp3.1\client.socket.AssemblyInfo.cs
+C:\Users\resul\source\repos\websocket-api\client.socket\bin\Debug\netcoreapp3.1\client.socket.pdb
+C:\Users\resul\source\repos\websocket-api\client.socket\obj\Debug\netcoreapp3.1\client.socket.dll
+C:\Users\resul\source\repos\websocket-api\client.socket\obj\Debug\netcoreapp3.1\client.socket.pdb
+C:\Users\resul\source\repos\websocket-api\client.socket\obj\Debug\netcoreapp3.1\client.socket.csproj.CoreCompileInputs.cache
